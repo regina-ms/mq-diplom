@@ -767,6 +767,7 @@ body {
   bottom: 60px;
   left: 340px;
   background-color: transparent;
+  cursor: pointer; 
 }
 
 .popup-content {
@@ -865,9 +866,9 @@ outline: 1px solid #b59f5b;
   font-size: 14px;
 }
 
-/* ._hidden {
+._hidden {
   display: none;
-} */
+} 
 
 /* tablet */
 
